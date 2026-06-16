@@ -9,7 +9,7 @@ It is intended for threaded loops that need per-worker buffers without relying o
 
 ```julia
 using Pkg
-Pkg.add(url = "https://github.com/YOUR_USERNAME/VirtualThreads.jl")
+Pkg.add(url = "https://github.com/samadritakarmakar/VirtualThreads.jl")
 ```
 
 ## Usage

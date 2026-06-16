@@ -43,4 +43,5 @@ macro virtualthreads(virtThreadNo::Union{Symbol, Expr}, forLoopExpr::Expr)
     end
 end
 
+export @virtualthreads
 end # module VirtualThreads
